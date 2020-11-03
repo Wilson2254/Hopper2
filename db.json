@@ -1,0 +1,228 @@
+{
+    "video": [{
+            "page": 1,
+            "lastPage": 3,
+            "content": [{
+                    "id": "1",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "2",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Led Zeppelin StarWay to Heaven"
+                },
+                {
+                    "id": "3",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Борат (2006) - Borat"
+                },
+                {
+                    "id": "4",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "5",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "6",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "7",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "8",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "9",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "10",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                }
+            ]
+        },
+        {
+            "page": 2,
+            "lastPage": 3,
+            "content": [{
+                    "id": "1",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Волк с Уолл Стрит (2013) - Wolf Walk Street"
+                },
+                {
+                    "id": "2",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "3",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Бетмен (1990) - Batman"
+                },
+                {
+                    "id": "4",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "5",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "6",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "7",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "8",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "9",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "10",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                }
+            ]
+        },
+        {
+            "page": 3,
+            "lastPage": 3,
+            "content": [{
+                    "id": "1",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Звездные войны 9 (2019) - Star Wars 9"
+                },
+                {
+                    "id": "2",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Queen Dont Stop Me Now"
+                },
+                {
+                    "id": "3",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Lovers (2009) - Любовники"
+                },
+                {
+                    "id": "4",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "5",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "6",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "7",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "8",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                },
+                {
+                    "id": "9",
+                    "type": "movie",
+                    "category": "трейлер",
+                    "pageUrl": "https://site.ru/videos/1a1dc91c9",
+                    "name": "Начало (2010) - Inception"
+                },
+                {
+                    "id": "10",
+                    "type": "music",
+                    "genre": "rock",
+                    "pageUrl": "https://site.ru/videos/07325c692",
+                    "name": "Limp Bizkit Behind Blue Eyes"
+                }
+            ]
+        }
+    ]
+}
